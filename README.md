@@ -40,6 +40,9 @@ Feel free to reach out to me via:
 - 📈 [**Statistical Time Series Analysis**](https://github.com/rasoul-ehsghi/Statistics-In-Price-Analysis)  
   Statistical and econometric modeling for financial price data.
 
+- 🎯[**NASDAQ TotalView ITCH Parser**](https://github.com/rasoul-ehsghi/Nasdaq_ITCH-parser)  
+  Tactical Package for Parsing, Analysing and Reading NASDQ ITCH Binary files.
+
 ---
 
 ### 🧠 Machine Learning & Deep Learning
