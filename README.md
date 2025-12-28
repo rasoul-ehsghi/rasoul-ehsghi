@@ -43,6 +43,10 @@ Feel free to reach out to me via:
 - 🎯[**NASDAQ TotalView ITCH Parser**](https://github.com/rasoul-ehsghi/Nasdaq_ITCH-parser)  
   Tactical Package for Parsing, Analysing and Reading NASDQ ITCH Binary files.
 
+- ⚙️[**Maral 1.0.4 Binomial Tree Option Calculator**](https://github.com/rasoul-ehsghi/Nasdaq_ITCH-parser)  
+  Flexible Binomial Tree Option Pricing Calculator for different asset classes.
+  
+
 ---
 
 ### 🧠 Machine Learning & Deep Learning
